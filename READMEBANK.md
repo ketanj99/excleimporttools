@@ -1,4 +1,4 @@
-What's New in Bank To Miracle V 3.0 B 18
+What's New in Bank To Miracle V 3.0 B 17
 
 
     Improved update mechanism.
